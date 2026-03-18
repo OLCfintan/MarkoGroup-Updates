@@ -1,0 +1,5 @@
+{
+  "LatestVersion": "2.5.2",
+  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.2",
+  "ReleaseNotes": "Packaging cleanup, updater feed split, and startup stability fixes."
+}

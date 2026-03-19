@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "2.5.4",
-  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.4",
-  "ReleaseNotes": "Stock alert display fixes, wider bon/facture numeric editors, base-only consumable dashboard alerts, and expanded stress coverage.",
+  "LatestVersion": "2.5.5",
+  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.5",
+  "ReleaseNotes": "Viewer-only Show PDF/Excel/CSV/TXT actions, default double-click open format, corrected public update URL normalization, and expanded workflow stress coverage.",
   "IsNewer": true
 }

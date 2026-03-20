@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "2.5.8",
-  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.8",
-  "ReleaseNotes": "Payment flows now support multiple check and lettre attachments, invoice and bon line selection is merged into one searchable picker, bulk table selection is available where logical, and remote background exports no longer corrupt product stock mode.",
+  "LatestVersion": "2.5.9",
+  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.9",
+  "ReleaseNotes": "Premium shell refresh with Ctrl+K quick commands, a live activity timeline on the dashboard, cleaner top navigation, and tighter localized UI regression coverage.",
   "IsNewer": true
 }

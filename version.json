@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "2.5.5",
-  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.5",
-  "ReleaseNotes": "Viewer-only Show PDF/Excel/CSV/TXT actions, default double-click open format, corrected public update URL normalization, and expanded workflow stress coverage.",
+  "LatestVersion": "2.5.6",
+  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.6",
+  "ReleaseNotes": "Remote visibility now uses strict 5-second timing with immediate action sends, no legacy minute fallback, and active/inactive tracking at the 7-second threshold.",
   "IsNewer": true
 }

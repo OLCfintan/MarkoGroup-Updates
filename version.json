@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "3.0.1",
-  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v3.0.1",
-  "ReleaseNotes": "Version alignment pass: the app shell, Windows metadata, installer, and public updater feed now all report 3.0.1 consistently.",
+  "LatestVersion": "3.0.2",
+  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v3.0.2",
+  "ReleaseNotes": "Admin-to-branch product catalog sync, dashboard scroll stabilization, and remote refresh hardening.",
   "IsNewer": true
 }

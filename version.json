@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "2.5.9",
-  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v2.5.9",
-  "ReleaseNotes": "Premium shell refresh with Ctrl+K quick commands, a live activity timeline on the dashboard, cleaner top navigation, and tighter localized UI regression coverage.",
+  "LatestVersion": "3.0.1",
+  "DownloadUrl": "https://github.com/OLCfintan/MarkoGroup-Updates/releases/tag/v3.0.1",
+  "ReleaseNotes": "Version alignment pass: the app shell, Windows metadata, installer, and public updater feed now all report 3.0.1 consistently.",
   "IsNewer": true
 }
